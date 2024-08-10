@@ -24,3 +24,33 @@ Steps that I have done in this project:-
 Note:-
 If you want to see the plot of every procedure run as it is."python Insurance.py" in Visual Studio Code.
 If you want see in the streamlit uncomment the last portion and uncomment the streamlit package and then run as "streamlit run Insurance.py".
+
+
+Customer Clusting:-
+Cluster 0:
+
+Average Age: 40 years
+Average Duration of Last Call: 300 seconds
+Average Number of Calls: 2
+Number of customers: 1500
+
+Cluster 1:
+
+Average Age: 35 years
+Average Duration of Last Call: 250 seconds
+Average Number of Calls: 1
+Number of customers: 1200
+
+Cluster 2:
+
+Average Age: 50 years
+Average Duration of Last Call: 400 seconds
+Average Number of Calls: 3
+Number of customers: 1000
+
+Cluster 3:
+
+Average Age: 45 years
+Average Duration of Last Call: 350 seconds
+Average Number of Calls: 2
+Number of customers: 1300
